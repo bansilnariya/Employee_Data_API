@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EMPLOYE  DATA API.props" />
+</Project>

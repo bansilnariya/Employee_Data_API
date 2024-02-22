@@ -1,0 +1,86 @@
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\appsettings.Development.json
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\appsettings.json
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.exe
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.deps.json
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.runtimeconfig.json
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.pdb
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Humanizer.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Npgsql.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\System.CodeDom.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.csproj.AssemblyReference.cache
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.AssemblyInfoInputs.cache
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.AssemblyInfo.cs
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.csproj.CoreCompileInputs.cache
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.MvcApplicationPartsAssemblyInfo.cs
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.MvcApplicationPartsAssemblyInfo.cache
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.EMPLOYE DATA API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.build.EMPLOYE DATA API.props
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMPLOYE DATA API.props
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMPLOYE DATA API.props
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets.build.json
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets.development.json
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\scopedcss\bundle\EMPLOYE DATA API.styles.css
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.csproj.CopyComplete
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\refint\EMPLOYE DATA API.dll
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.pdb
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.genruntimeconfig.cache
+D:\API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\ref\EMPLOYE DATA API.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\appsettings.Development.json
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\appsettings.json
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.exe
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.deps.json
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.runtimeconfig.json
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\EMPLOYE DATA API.pdb
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Humanizer.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Npgsql.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\bin\Debug\net7.0\System.CodeDom.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.csproj.AssemblyReference.cache
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.GeneratedMSBuildEditorConfig.editorconfig
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.AssemblyInfoInputs.cache
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.AssemblyInfo.cs
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.csproj.CoreCompileInputs.cache
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.MvcApplicationPartsAssemblyInfo.cs
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.MvcApplicationPartsAssemblyInfo.cache
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.EMPLOYE DATA API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.build.EMPLOYE DATA API.props
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EMPLOYE DATA API.props
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EMPLOYE DATA API.props
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets.build.json
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\staticwebassets.development.json
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\scopedcss\bundle\EMPLOYE DATA API.styles.css
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.csproj.CopyComplete
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\refint\EMPLOYE DATA API.dll
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.pdb
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\EMPLOYE DATA API.genruntimeconfig.cache
+D:\POSTGRES SQL API\EMPLOYE  DATA API\EMPLOYE  DATA API\obj\Debug\net7.0\ref\EMPLOYE DATA API.dll
